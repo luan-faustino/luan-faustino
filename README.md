@@ -9,6 +9,6 @@ I work in Security Operations at a Brazilian financial cooperative, managing Mic
 - 📚 Currently learning: Microsoft Sentinel & KQL (SC-200), detection engineering with MITRE ATT&CK
 - 🌎 Based in Blumenau, Brazil (UTC-3) · open to remote work
 
-**Portfolio:** [fjk-20.github.io](https://fjk-20.github.io) · **LinkedIn:** [luan-vitor-faustino](https://www.linkedin.com/in/luan-vitor-faustino/)
+**Portfolio:** [luan-faustino.github.io](https://luan-faustino.github.io) · **LinkedIn:** [luan-vitor-faustino](https://www.linkedin.com/in/luan-vitor-faustino/)
 
 <sub>Lab projects (detection rules, SIEM labs and automation samples) are being published here. Work done for employers is never shared with internal data.</sub>
